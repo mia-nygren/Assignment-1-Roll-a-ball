@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 6e0c50994daac3c4ab54d075024fb620
+timeCreated: 1479570282
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bottom
+    100002: Floating_dirt
+    100004: Floating_dirt.001
+    100006: Floating_dirt2
+    100008: //RootNode
+    100010: Rock
+    100012: rock
+    100014: Rock.001
+    100016: Rock.002
+    100018: Rock_top
+    100020: Rock_top.001
+    100022: Rock_top.002
+    100024: Top.000
+    100026: Top.001
+    400000: Bottom
+    400002: Floating_dirt
+    400004: Floating_dirt.001
+    400006: Floating_dirt2
+    400008: //RootNode
+    400010: Rock
+    400012: rock
+    400014: Rock.001
+    400016: Rock.002
+    400018: Rock_top
+    400020: Rock_top.001
+    400022: Rock_top.002
+    400024: Top.000
+    400026: Top.001
+    2300000: Bottom
+    2300002: Floating_dirt
+    2300004: Floating_dirt.001
+    2300006: Floating_dirt2
+    2300008: Rock
+    2300010: rock
+    2300012: Rock.001
+    2300014: Rock.002
+    2300016: Rock_top
+    2300018: Rock_top.001
+    2300020: Rock_top.002
+    2300022: Top.000
+    2300024: Top.001
+    3300000: Bottom
+    3300002: Floating_dirt
+    3300004: Floating_dirt.001
+    3300006: Floating_dirt2
+    3300008: Rock
+    3300010: rock
+    3300012: Rock.001
+    3300014: Rock.002
+    3300016: Rock_top
+    3300018: Rock_top.001
+    3300020: Rock_top.002
+    3300022: Top.000
+    3300024: Top.001
+    4300000: Top.000
+    4300002: Rock_top.002
+    4300004: Rock_top.001
+    4300006: Rock_top
+    4300008: Rock
+    4300010: Rock.001
+    4300012: rock
+    4300014: Floating_dirt
+    4300016: Floating_dirt2
+    4300018: Floating_dirt.001
+    4300020: Rock.002
+    4300022: Bottom
+    4300024: Top.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

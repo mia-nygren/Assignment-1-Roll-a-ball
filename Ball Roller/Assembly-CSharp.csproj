@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\Counter.cs" />
      <Compile Include="Assets\Scripts\Fallout.cs" />
      <Compile Include="Assets\Scripts\Fruit.cs" />
+     <Compile Include="Assets\Scripts\MeshSize.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Rotator.cs" />
      <Compile Include="Assets\Scripts\SoundManager.cs" />
