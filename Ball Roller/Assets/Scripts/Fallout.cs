@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.UI;
 public class Fallout : MonoBehaviour {
 
-	private int lives = 2;
+	private int lives = 3;
 	private SoundManager soundManager;
 	private bool collision = false;
 	public Transform respawn;
@@ -43,8 +43,7 @@ public class Fallout : MonoBehaviour {
 			if (lives <= 0) {
 				gameOverText.text = "Game Over!!! :(";
 				gameOver = true;
-			}
-			
+			}			
 		}
 	}
 

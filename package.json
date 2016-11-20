@@ -1,0 +1,19 @@
+{
+  "version": "1.1.0",
+  "name": "roll-a-ball",
+  "main": "n/a",
+  "scripts": {
+    "deploy": "gh-pages -d Game"
+  },
+  "keywords": [
+    "gatsby",
+    "lumen",
+    "starter"
+  ],
+  "author": "Mia",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
+  }
+}

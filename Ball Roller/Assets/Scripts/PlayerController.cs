@@ -33,11 +33,9 @@ public class PlayerController : MonoBehaviour {
 		if(bananas == null)
 			bananas = GetAllFruitsWithTag ("Banana"); 
 		if (apples == null)
-			apples = GetAllFruitsWithTag ("Apple");
-		
+			apples = GetAllFruitsWithTag ("Apple");	
 	}
-
-
+		
 	// Use this for initialization
 	void Start () {		
 
@@ -95,7 +93,7 @@ public class PlayerController : MonoBehaviour {
 				// Play a victory sound
 				soundManager.PlayClip(victory);
 				fallout.resetPlayer(); // reset the position of the player
-				winText.text = "Grattis Du vann! :D";
+				winText.text = "Congratulations you won! :D";
 			}
 
 			UpdatePoints (gameObj);
@@ -121,10 +119,9 @@ public class PlayerController : MonoBehaviour {
 		points += num;	
 		SetPointText ();
 	}
-
-
+		
 	private void SetPointText(){		
-		pointText.text = "Poäng: " + points.ToString();
+		pointText.text = "Points: " + points.ToString();
 	}
 
 	private void SetBananaText() {
